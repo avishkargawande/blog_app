@@ -1,0 +1,105 @@
+{
+  "oneBlogCard": [
+    {
+      "title": "Blogs1",
+      "name": "Avishkar gawande",
+      "date": "10-12-2003",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an  .",
+      "id": "1df5"
+    },
+    {
+      "id": "d2f3",
+      "title": "avyaaa",
+      "name": "undefined",
+      "content": "avyaaaaaaaaaaaaaa",
+      "date": "2025-05-09"
+    },
+    {
+      "id": "2725",
+      "title": "",
+      "name": "a",
+      "content": "",
+      "date": "2025-05-09"
+    }
+  ],
+  "formData": [
+    {
+      "id": "a892",
+      "name": "avishkar",
+      "EmailId": "avi@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "b27b",
+      "name": "siddhi",
+      "EmailId": "siddhi12@gmail.com",
+      "password": "sid@123"
+    },
+    {
+      "id": "0bce",
+      "name": "alala",
+      "EmailId": "aykam",
+      "password": "1234"
+    },
+    {
+      "id": "12a6",
+      "name": "avishkar gawande",
+      "EmailId": "avishkar@gmail.com",
+      "password": "avishkar123"
+    },
+    {
+      "id": "a452",
+      "name": "abc",
+      "EmailId": "adii@gmail.com",
+      "password": "avi123"
+    },
+    {
+      "id": "2be4",
+      "name": "amg",
+      "EmailId": "adii@gmail.com",
+      "password": "avi123"
+    },
+    {
+      "id": "b069",
+      "name": "yash",
+      "EmailId": "yash@gmail.com",
+      "password": "yash123"
+    },
+    {
+      "id": "f886",
+      "name": "yash",
+      "EmailId": "yash@gmail.com",
+      "password": "yash123"
+    },
+    {
+      "id": "52a1",
+      "name": "avishkar",
+      "EmailId": "avishkar@gmail.com",
+      "password": "avi123"
+    },
+    {
+      "id": "535c",
+      "name": "avishkar",
+      "EmailId": "yash@gmail.com",
+      "password": "yash123"
+    },
+    {
+      "id": "e64c",
+      "name": "aviiiii",
+      "EmailId": "tre",
+      "password": "er"
+    },
+    {
+      "id": "1fb3",
+      "name": "aviiiii",
+      "EmailId": "tre",
+      "password": "er"
+    },
+    {
+      "id": "0d38",
+      "name": "a",
+      "EmailId": "a",
+      "password": "a"
+    }
+  ]
+}
